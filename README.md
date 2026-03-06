@@ -1,2 +1,2 @@
-# python-calculadora-simples
+#calculadora-simples
 Calculadora simples em Python usando match case
